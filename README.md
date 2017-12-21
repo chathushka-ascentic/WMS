@@ -8,9 +8,10 @@ WMS application should:
 3.	Gives an overall picture of the workflow
 4.	display as a form of SLA Status Indicators
 5.	Allow to utilize the process through web services.
+
 On top of the above high-level requirements, WMS will be developed for a scoped domain area. Application will be allowed to execute workflows to determine the User Stories created in TFS are ready start work by an agile team. Before start working on a user story, user story should be validated. Validation process defined as workflow activity handler and each activity handler is responsible to reject or approve the user story.
 
-Features of the Application 
+## Features of the Application 
 Core features of the application
 1.	Create workflows
 2.	Update workflows
