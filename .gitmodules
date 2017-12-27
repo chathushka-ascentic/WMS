@@ -1,0 +1,3 @@
+[submodule "WMS-FrontEnd"]
+	path = WMS-FrontEnd
+	url = https://github.com/MalikaMunaweera/WMS-FrontEnd.git
